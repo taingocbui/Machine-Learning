@@ -1,0 +1,19 @@
+My team includes me, Tai Bui, and Caleb Joseph. Caleb is responsible to work with the theoretical part of the homework while I work with the coding problems. 
+
+For my coding solutions, there are six different functions, not including the given load function for each data set. 
+
+The sigmoid function takes in a numpy array and returns the sigmoid of each element of the array. 
+
+The prob function takes in two vectors and return the sigmoid function of the dot product of the two vectors. 
+
+The loss function takes in a weight vector, a y label vector and a 2 dimensions matrix X. This function return the value of the loss function.
+
+The logistic_regression function takes in a w_init vector of initial weight with each elements are random generated values, a learning rate value ep,
+2-dim matrix X, label vector y and a threshold value as parameters. This function returns a weight vector as a result of logistic regression.
+
+The predict function takes in 2 matrix including training and test matrix. This function returns a list of prediction for each data element of the test matrix given their features.
+
+Lastly, the accuracy_score function will returns the accuracy score of the logistic regression.
+
+For this homework, I used Jupyter notebook to code. For Jupyter notebook, I do not need to use classes to run, therefore, I did not put all the functions under one single class.
+Please let me know if you need me to make any adjustment. 
